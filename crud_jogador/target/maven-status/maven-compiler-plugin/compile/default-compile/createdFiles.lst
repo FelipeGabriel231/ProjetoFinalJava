@@ -1,0 +1,4 @@
+com\example\crud_jogador\controller\JogadorController.class
+com\example\crud_jogador\JavaFXApp.class
+com\example\crud_jogador\model\Jogador.class
+com\example\crud_jogador\repository\JogadorRepository.class
